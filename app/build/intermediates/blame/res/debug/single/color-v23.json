@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/atul/Desktop/add/EMI/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/atul/.android/build-cache/cd2b816d1f6152ac2f8b564dab6cfefc99712bfd/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/atul/Desktop/add/EMI/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/atul/.android/build-cache/cd2b816d1f6152ac2f8b564dab6cfefc99712bfd/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/atul/Desktop/add/EMI/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/atul/.android/build-cache/cd2b816d1f6152ac2f8b564dab6cfefc99712bfd/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/atul/Desktop/add/EMI/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/atul/.android/build-cache/cd2b816d1f6152ac2f8b564dab6cfefc99712bfd/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/atul/Desktop/add/EMI/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/atul/.android/build-cache/cd2b816d1f6152ac2f8b564dab6cfefc99712bfd/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/atul/Desktop/add/EMI/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/atul/.android/build-cache/cd2b816d1f6152ac2f8b564dab6cfefc99712bfd/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/atul/Desktop/add/EMI/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/atul/.android/build-cache/cd2b816d1f6152ac2f8b564dab6cfefc99712bfd/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/atul/Desktop/add/EMI/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/atul/.android/build-cache/cd2b816d1f6152ac2f8b564dab6cfefc99712bfd/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/atul/Desktop/add/EMI/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/atul/.android/build-cache/cd2b816d1f6152ac2f8b564dab6cfefc99712bfd/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/atul/Desktop/add/EMI/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/atul/.android/build-cache/ae8a7b2cae315b3f87e222968d8a19ed22059726/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/atul/Desktop/add/EMI/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/atul/.android/build-cache/cd2b816d1f6152ac2f8b564dab6cfefc99712bfd/output/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

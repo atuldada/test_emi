@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/atul/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/atul/Desktop/add/EMI/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_cf1948d24e16a7679580cd917329fa8b1d71a8d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/.android/build-cache/a36dbf936a0c0aa579fa5d2a4975cde23bc85c05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/atul/Desktop/add/EMI/app/build/intermediates/pre-dexed/debug/classes_897e68bef3fd75974dc89349b67c080818275677.jar" />
+    </item>
+
+</items>
